@@ -12,5 +12,5 @@
 </a>
 
 
-
+![Snake animation](https://github.com/ingridsterphane/ingridsterphane/blob/output/github-contribution-grid-snake.svg)
 

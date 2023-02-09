@@ -2,11 +2,10 @@
 </br>
 
  <div>
- <a href="https://github.com/ingridsterphane">
-  <img align="center" height="145" src="https://github-readme-stats.vercel.app/api?username=ingridsterphane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-   <img align="center" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridsterphane&layout=compact&langs_count=16&theme=dracula"/>
-  
-
+<div align="center">
+  <a href="https://github.com/ingridsterphane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridsterphane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridsterphane&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
  ## Skills

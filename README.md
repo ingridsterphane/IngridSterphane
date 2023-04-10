@@ -43,7 +43,7 @@
 
 ## Contact 
 <div> 
-  <a href="https://www.linkedin.com/in/ingrid-sterphane-40706518b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ingrid-sterphane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: ingridsterphane@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
  </br>
 </br>

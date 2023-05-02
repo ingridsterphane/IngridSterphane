@@ -1,11 +1,11 @@
 ### Olá! Me chamo Ingrid Sterphane 👋
 </br>
 
- <div>
+<div>
 <div align="center">
   <a href="https://github.com/ingridsterphane">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ingridsterphane&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridsterphane&layout=compact&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ingridsterphane&show_icons=true&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridsterphane&layout=compact&theme=dark"/>
 </div>
  
  
